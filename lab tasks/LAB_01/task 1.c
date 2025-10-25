@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("FIRST PROGRAM IN C");
+	printf("HELLO WORLD!");
 	return 0;
-	
 }
